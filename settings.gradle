@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LifrCycle_20200708"
